@@ -1,0 +1,35 @@
+.bold {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+}
+.site {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+body {
+    background-image: url(https://images.wallpaperscraft.ru/image/single/gory_kometa_nebo_1364269_1920x1080.jpg);
+}
+h1 {
+    color: aliceblue;
+    text-transform: uppercase; 
+    letter-spacing: 2px; 
+    margin: 20px 0; 
+    padding: 5px; 
+   
+}
+a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    transition: color 0.3s, text-shadow 0.3s;
+}
+a:hover {
+    color: black;
+    text-shadow: 0 0 5px rgba(52, 152, 219, 0.7);
+}
+li {
+    font-size: 1.2 em;
+    color: #2c3e50;
+}
